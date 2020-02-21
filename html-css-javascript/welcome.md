@@ -1,6 +1,6 @@
 # Welcome
 
-The following modules exist to assess your learning capabilities in a short amount of time. You will have **2 weeks** to complete these modules in order to be given a slot in the class.
+The following modules exist to assess your learning capabilities in a short amount of team. You will have **2 weeks** to complete these modules in order to be given a slot in the class.
 
 These are your deliverables for this work:
 

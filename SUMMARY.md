@@ -243,6 +243,7 @@
     * [Grid Layout](html-css-javascript/module-1/lesson-4/grid-layout.md)
     * [Bootstrap Grid](html-css-javascript/module-1/lesson-4/bootstrap-grid.md)
     * [Text Layout - Activity](html-css-javascript/module-1/lesson-4/text-layout-activity.md)
+    * [Bootstrap Wireframe Layout](html-css-javascript/module-1/lesson-4/bootstrap-wireframe-layout.md)
     * [Responsive Design](html-css-javascript/module-1/lesson-4/responsive-design.md)
     * [Build Media Query - Activity](html-css-javascript/module-1/lesson-4/build-media-query-activity.md)
   * [Module 1 Assessment](html-css-javascript/module-1/module-1-assessment.md)

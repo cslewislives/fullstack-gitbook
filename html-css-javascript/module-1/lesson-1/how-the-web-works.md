@@ -7,7 +7,7 @@ Web applications are composed of 3 major components
 ![](../../../.gitbook/assets/image%20%2865%29.png)
 
 * **Databases**
-  * Store data.  
+  * Store data. 
   * On a social media site, this might be your username, password, friends, birthday, posts, etc. 
 * **Clients** 
   * The computers rendering the web app. 
