@@ -6,7 +6,7 @@ description: Introduction to Testing
 
 Testing is arguably one of **the most important** concepts that we will cover in this course. This is just the introduction. We will continue to learn about testing for the remainder of the course. A solid understanding of testing will be vital to your success in the course.
 
-#### What is Software Testing?
+#### What is Software Testing? 
 
 Technically speaking **Testing** is the process of ensuring that an application meets the specifications, requirements, and is free of bugs. 
 

@@ -6,7 +6,7 @@ Using the knowledge gained during the HelloWorld activity, work through the foll
 
 We strongly suggest you attempt this activity on your own before reviewing the Solution Code. 
 
-Be sure to look for errors in IntelliJ before running the program. 
+Be sure to look for errors in IntelliJ before running the program.  
 
 {% tabs %}
 {% tab title="Instructions" %}

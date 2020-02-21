@@ -6,7 +6,7 @@ Using the construct code found in the **Switch Statement** explanation, attempt 
 
 {% tabs %}
 {% tab title="DayOfTheWeek Instructions" %}
-In this activity you will be prompting the user to input an integer between 1 and 7 inclusive. You will be evaluating this input against the case values in a switch statement to output the day of the week that corresponds to that value. For this activity, the number 1 will equate to Monday. The default statement will advise the user that they did not input a correct value. 
+In this activity you will be prompting the user to input an integer between 1 and 7 inclusive. You will be evaluating this input against the case values in a switch statement to output the day of the week that corresponds to that value. For this activity, the number 1 will equate to Monday. The default statement will advise the user that they did not input a correct value.  
 
 * Initiate a project with the package `com.company` and a Java class called `Weekday`. 
 * Inside your main method, initiate a scanner that takes in an integer from 1 to 7 inclusive. 

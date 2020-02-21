@@ -8,7 +8,7 @@ Method overloading allows us to have several methods with the same name.
 
 But why would we want several methods with the same name? We could have a series of `add` methods: one for adding ints, one for adding floats, etc. `System.out` has several `println(...)` methods; we can print booleans, Strings, ints, etc.
 
-This means that each overloaded method will have the same name but a different parameter list.
+This means that each overloaded method will have the same name but a different parameter list. 
 
 ```java
 public class SimpleAdder {

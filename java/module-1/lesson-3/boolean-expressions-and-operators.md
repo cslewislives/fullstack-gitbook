@@ -16,7 +16,7 @@ Boolean expressions were referred to in Lesson 2, but let us review the highligh
   * Equal to?
   * Greater than or less than?
 
-There are two types of boolean expressions: **Relational Operators** and **Logical**.
+There are two types of boolean expressions: **Relational Operators** and **Logical**. 
 
 ## Relational Operators
 

@@ -7,7 +7,7 @@ description: Examples of various aggregate operations.
 ### Filter and ForEach Examples
 
 * The filter example matches the example from the Lambda Syntax page.
-* The forEach operation take a lambda expression that doesn't return anything. We must have the curly braces in this example because we have more than one statement.
+* The forEach operation take a lambda expression that doesn't return anything. We must have the curly braces in this example because we have more than one statement. 
 
 > **NOTE: This code is an entire class—we've just broken it up so we can insert comments/directions.**
 

@@ -7,7 +7,7 @@ Using the construct code found in the **For Loops** explanation, attempt the Pri
 {% tabs %}
 {% tab title="PrintEven & PrintOdds Activities" %}
 * Using a **For loop**, create a PrintEven class that outputs all of the even integers between 0 and 20.
-* Use any combination of the initialization, termination or increment values to accomplish this task. 
+* Use any combination of the initialization, termination or increment values to accomplish this task.  
 * With that task completed, create a PrintOdd class that outputs all of the odd values within the same integer range. 
 * As before, challenge yourself to write as much of the code as you can before reviewing the solution file. 
 * Feel free to reference the material in this Gitbook or use Google to help you code the solution. 

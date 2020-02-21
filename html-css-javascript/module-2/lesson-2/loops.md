@@ -6,7 +6,7 @@ We'll look at two different loops, or iterators, called `for` loops and `while` 
 
 ### While Loops
 
-Take a look at the following `while` loop:
+Take a look at the following `while` loop: 
 
 ```javascript
 let counter = 0;

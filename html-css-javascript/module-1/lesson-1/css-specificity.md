@@ -4,7 +4,7 @@
 
 * Sometimes an element can have conflicting CSS properties, the browser must then decide which is most relevant to the element.
 * You can think of CSS specificity as a hierarchy! 
-* Your CSS properties will overlap based on those hierarchies.
+* Your CSS properties will overlap based on those hierarchies. 
 
 {% tabs %}
 {% tab title="HTML" %}

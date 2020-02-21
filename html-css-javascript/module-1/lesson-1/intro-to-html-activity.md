@@ -8,7 +8,7 @@ description: Test what you've learned!
 
 We strongly suggest you attempt this activity on your own before reviewing the Solution Code.
 
-Head to [this JSBin link](https://jsbin.com/xahonej/1/edit?html,output) and follow the instructions below:
+Head to [this JSBin link](https://jsbin.com/xahonej/1/edit?html,output) and follow the instructions below: 
 
 {% tabs %}
 {% tab title="Instructions" %}

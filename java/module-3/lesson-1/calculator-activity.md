@@ -2,7 +2,7 @@
 
 ![Calculator](../../../.gitbook/assets/image%20%2850%29.png)
 
-Follow the instructions below to the best of your ability before taking a look at the solutions. If you have any questions feel free to post them in Slack!
+Follow the instructions below to the best of your ability before taking a look at the solutions. If you have any questions feel free to post them in Slack! 
 
 {% tabs %}
 {% tab title="Instructions" %}

@@ -8,7 +8,7 @@ Before continuing with the lessons go ahead and attempt the following assessment
 
 * Create a new repository called `firstName-lastName-prework` and clone it to your machine
 * Copy the provided files into the new repository in a folder titled `HTML_BasicCSS_Assessment`
-* Using the provided files above, Google and the tools you just learned, recreate the design below as closely as possible:
+* Using the provided files above, Google and the tools you just learned, recreate the design below as closely as possible: 
 
 ![Example Website](../../../.gitbook/assets/css_ii.png)
 

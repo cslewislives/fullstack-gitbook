@@ -8,7 +8,7 @@ description: Method input variables.
 
 Parameters are simply variables that are declared in the method declaration that catch the values being passed in. Like any normal variable, they must be declared with a type and name. The name can be any valid variable name and should follow good naming conventions. 
 
-Every time the method is called it executes again. Every execution, has different parameter values based on what was passed in when the method was called. 
+Every time the method is called it executes again. Every execution, has different parameter values based on what was passed in when the method was called.  
 
 ```java
 public static void main(String args[]) {

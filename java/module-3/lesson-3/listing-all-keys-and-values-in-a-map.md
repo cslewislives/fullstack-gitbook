@@ -8,7 +8,7 @@ description: An example of listing the keys and values in a Map.
 
 * We can ask the map for all of its keys.
 * The keys from the map are returned in a Set collection, so we can use an iterator to access each key.
-* Sets are generic classes and require us to specify the type of object that will be in the set \(in this case, Strings\).
+* Sets are generic classes and require us to specify the type of object that will be in the set \(in this case, Strings\). 
 * Why do you think the keys are returned as a set? What are the characteristics of a set? Sets can't have duplicates, just like we can't have duplicate keys.
 
 ```java

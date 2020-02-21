@@ -2,7 +2,7 @@
 
 ![SumGenerator](../../../.gitbook/assets/image%20%2894%29.png)
 
-Follow the instructions below. Do not look at the Solution Code tabs until you have completed your attempt.
+Follow the instructions below. Do not look at the Solution Code tabs until you have completed your attempt. 
 
 {% tabs %}
 {% tab title="Instructions" %}

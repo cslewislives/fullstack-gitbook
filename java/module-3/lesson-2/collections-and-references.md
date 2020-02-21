@@ -4,7 +4,7 @@ description: Demonstration of the fact that collections can hold references to o
 
 # Collections and References
 
-We want to accomplish two things here:
+We want to accomplish two things here: 
 
 * Show that we can put our own custom objects into a collection.
 * Demonstrate the ramifications of the fact that collections hold **references** to objects.

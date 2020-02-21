@@ -4,8 +4,6 @@ description: Demonstration of how wrapper classes work with collections.
 
 # Wrapper Classes
 
-
-
 * We want to show how wrapper classes work with collections.
 * We will demonstrate the autoboxing and unboxing features of Java that make using wrapper classes more natural.
 * Wrapper classes, autoboxing, and unboxing are things that every Java developer needs to understand, but the details get hidden by autoboxing and unboxing in most cases.

@@ -7,7 +7,7 @@
 1. Using the code below as a starter, create getters and setters for name and weight. 
 2. Create a class called `App` and in it create a `main` method. 
 3. Inside the `main` method create a lion object and set it's weight and name. 
-4. Print the name and weight using the getters. 
+4. Print the name and weight using the getters.  
 
 ```java
 public class Lion {

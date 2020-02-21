@@ -8,7 +8,7 @@ description: Practice activities for Module 3 Lesson 2.
 
 ## Activities
 
-The following activities will enhance your understanding of Iterators and Lists. Details for each of the activities can be found inside the file. 
+The following activities will enhance your understanding of Iterators and Lists. Details for each of the activities can be found inside the file.  
 
 * Refactor array the provided array methods using ArrayList.
 * Refactor the methods using a LinkedList.

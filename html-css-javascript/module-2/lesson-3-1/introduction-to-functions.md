@@ -6,7 +6,7 @@ A **function** is a set of defined steps or procedures that can be executed at w
 
 Functions are important to modularize your code, making it easier to debug and read, and reduces the amount of code required to write.
 
-You'll use functions when you want repeatable blocks of code.
+You'll use functions when you want repeatable blocks of code. 
 
 ### DRY \(Don't Repeat Yourself\)
 

@@ -2,7 +2,7 @@
 
  In Bootstrap **all** content is organized in rows and columns.
 
-Columns fit inside of rows. Rows fit inside containers. Columns are defined by the number of "spans" they take up, with a **total** of 12 spans.
+Columns fit inside of rows. Rows fit inside containers. Columns are defined by the number of "spans" they take up, with a **total** of 12 spans. 
 
 ![](https://lh3.googleusercontent.com/SCOUFM7MGE3TRR7vU8JuxQyY7n7avpORdKeO234UBW-j0ffulRuRhi9CgC_hLoCELtnXkW4_lGog9FQSkKZpMM-C8i1QTiucz7q0CjdGlq6iwqxdXyFWQnOmnnxYloV8PbsXOVUl-50)
 

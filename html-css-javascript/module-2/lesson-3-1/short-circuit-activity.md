@@ -1,10 +1,8 @@
 # Short Circuit - Activity
 
-
-
 ![Short Circuit](../../../.gitbook/assets/image%20%284%29.png)
 
-Make sure you attempt the activity on your own before checking out the solution.
+Make sure you attempt the activity on your own before checking out the solution. 
 
 {% tabs %}
 {% tab title="Instructions" %}

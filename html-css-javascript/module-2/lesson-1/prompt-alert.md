@@ -7,7 +7,7 @@ const greeting = prompt('enter your name');
 alert('Hello ' + greeting);
 ```
 
-What do you think will happen when we run this code?
+What do you think will happen when we run this code? 
 
 After spending a few minutes brainstorming what the code _might_ do, go ahead and open the HTML file in your web browser.
 

@@ -4,7 +4,7 @@
 
 HTTP is the protocol that we use to send requests to the server.
 
-The most **popular** types of requests are:
+The most **popular** types of requests are: 
 
 * GET
 * POST

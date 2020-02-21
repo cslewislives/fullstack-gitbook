@@ -2,7 +2,7 @@
 
 ### Can't Test Every Input
 
-Now we just discussed testing for multiple inputs however, when unit testing we can’t test **every** possible input. 
+Now we just discussed testing for multiple inputs however, when unit testing we can’t test **every** possible input.  
 
 We need to group inputs together into **equivalency classes**. 
 

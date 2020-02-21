@@ -10,7 +10,7 @@ description: Making it Pretty
 * CSS, in addition to HTML, is read from top-to-bottom
 * CSS describes how HTML elements are to be displayed on screen, paper, or in other media
 * CSS saves a lot of work. It can control the layout of multiple web pages all at once
-* External **stylesheets** are stored in CSS files
+* External **stylesheets** are stored in CSS files 
 
 ![CSS property](https://lh5.googleusercontent.com/KOiTs8PtvT82KvnNTxdVAC5sn8uBNzco2cPkrHu8JBFIkIokCAZkWbKRMqvSqeJFdDoQpttOTPxqwMId4md9Ro1DUcmoc-9MoJFcTR0h8StxZPnezV6ey-4nnCJyGkgGDQQW49FlHH0)
 

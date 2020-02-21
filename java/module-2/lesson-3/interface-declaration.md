@@ -19,7 +19,7 @@ public interface Storable {
 * The code above represents our Storable interface. Classes that implement this interface must have both a storeData\(\) and retrieveData\(\) method.
 * Instead of the class keyword, we use the interface keyword.
 * Methods declared in the interface do not have a body; we just follow the definition with a semicolon.
-* This declaration defines the "contract".
+* This declaration defines the "contract". 
 
 {% embed url="https://youtu.be/XIUrl9eRxkI" %}
 

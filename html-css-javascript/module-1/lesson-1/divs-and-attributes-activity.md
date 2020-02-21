@@ -4,7 +4,7 @@
 
 ### Instructions:
 
-Did you know that we can give HTML elements any attribute that we want? For instance, we can have a div element and give it an attribute of "name" which we can then pass in "George":
+Did you know that we can give HTML elements any attribute that we want? For instance, we can have a div element and give it an attribute of "name" which we can then pass in "George": 
 
 ```markup
 <div name="George"></div>

@@ -6,7 +6,7 @@ The difference between what you have been building so far in class and a website
 
 A **static website** is one that displays the same thing to every user and never really changes unless the developer or maintainer actively alters the HTML. Basically, there is no web programming involved.
 
-We need to combine our HTML, CSS, and JavaScript to get data from the server to the client dynamically.
+We need to combine our HTML, CSS, and JavaScript to get data from the server to the client dynamically. 
 
 ### The DOM
 

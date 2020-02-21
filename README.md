@@ -4,7 +4,7 @@ description: This is going to be awesome!
 
 # Meet The Staff
 
-Don't worry you're not alone in this. You'll be guided through by your expert team of instructors. These are industry professionals with decades of enterprise application development experience.
+Don't worry you're not alone in this. You'll be guided through by your expert team of instructors. These are industry professionals with decades of enterprise application development experience. 
 
 ![Daniel Mueller](.gitbook/assets/image%20%28107%29.png)
 

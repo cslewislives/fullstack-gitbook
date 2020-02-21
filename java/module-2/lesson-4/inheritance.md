@@ -10,7 +10,7 @@ description: Inheritance represents an is-a relationship between classes.
 
 Inheritance is another language tool that allows us to express relationships.  
 
-It allows us to express hierarchical or **is-a** relationships between classes.
+It allows us to express hierarchical or **is-a** relationships between classes. 
 
 #### Real World Examples of Inheritance
 

@@ -6,7 +6,7 @@ description: >-
 
 # Debugging
 
-The debugger is a powerful tool that everyone should use. Breakpoints allow us to stop program execution and look at the state of the program. We can step through a program line by line. This allow us to see what the program is actually doing vs. what we think it is doing.
+The debugger is a powerful tool that everyone should use. Breakpoints allow us to stop program execution and look at the state of the program. We can step through a program line by line. This allow us to see what the program is actually doing vs. what we think it is doing. 
 
 {% embed url="https://youtu.be/agcIu9QLqjg" %}
 

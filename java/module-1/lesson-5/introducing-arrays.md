@@ -10,7 +10,7 @@ Up to now, we have been dealing with variables that hold a **single** value of a
 
 **Arrays** allow for the tracking and manipulation of more than one value of a particular type.
 
-## Key aspects of an Array
+## Key Aspects of an Array 
 
 We will use the following 'fruits' array as we discuss the key aspects of this new data structure. 
 

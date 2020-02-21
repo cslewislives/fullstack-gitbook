@@ -4,7 +4,7 @@ description: 'The 30,000 foot view of object-oriented programming'
 
 # Classes vs Objects
 
-Let's take a step back to understand what exactly we are doing here.
+Let's take a step back to understand what exactly we are doing here. 
 
 There are several key practical components to object-oriented programming \(OOP\) in Java - classes, objects, abstract classes, interfaces, and the hierarchical relationships between these are the focus of this unit.  
 

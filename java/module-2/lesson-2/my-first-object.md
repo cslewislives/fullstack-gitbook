@@ -6,7 +6,7 @@ description: Let's instantiate these beasts!!
 
 It's time for a concrete example. Let's suppose you are building a video game. In this game a brave monkey is battling a seemingly endless army of lions. The poor monkey evades the lions, pummels them with bananas, and fools them into running into deep holes, but the darn lions keep coming. 
 
-As a game developer, you're going to need to create A LOT of lions. The first step is to create a class \(or blueprint\) from which individual lions can be created. Each lion needs a name, a weight, and speed. At different levels of the game, the weight and speed of the lion will differ. 
+As a game developer, you're going to need to create A LOT of lions. The first step is to create a class \(or blueprint\) from which individual lions can be created. Each lion needs a name, a weight, and speed. At different levels of the game, the weight and speed of the lion will differ.  
 
 ```java
 public class Lion {

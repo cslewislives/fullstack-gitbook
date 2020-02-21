@@ -8,7 +8,7 @@ description: A brief description of lambdas and a list of some aggregate operati
 
 * So far, all of our parameters to methods have been data of some kind: either primitives or objects.
 * Lambdas allow us to pass in methods as parameters, which is a really powerful feature that allow us to pass in or define functionality on the fly.
-* This allows us to easily create code to process objects in collections. Each aggregate operation takes a lambdas expression as a parameter.
+* This allows us to easily create code to process objects in collections. Each aggregate operation takes a lambdas expression as a parameter. 
 
 #### Aggregate Operations
 

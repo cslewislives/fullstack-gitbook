@@ -1,8 +1,8 @@
 # Student Object - Activity
 
-Follow the process utilized to create the Person object to create a Student object. 
+![Student Object](../../../.gitbook/assets/image%20%2837%29.png)
 
-
+Follow the process utilized to create the Person object to create a Student object.  
 
 {% tabs %}
 {% tab title="Student Object Activity" %}

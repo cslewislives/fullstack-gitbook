@@ -2,7 +2,7 @@
 
 ### Arrays and Loops
 
-Now let's see how to iterate through an array of items using a for loop. Because we are iterating through an array that we'll want to refer to each data element of the array by its index.
+Now let's see how to iterate through an array of items using a for loop. Because we are iterating through an array that we'll want to refer to each data element of the array by its index. 
 
 ```javascript
 const studentList = ['justin', 'maryam', 'sterling', 'pawan', 'ben'];

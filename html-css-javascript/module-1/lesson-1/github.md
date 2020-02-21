@@ -6,7 +6,7 @@ GitHub is an online space to work collaboratively on projects and keep your code
 
 Most software requires teams of developers to work simultaneously in a safe way. GitHub is a tool that allows us to do that. We will cover only a few features of version control software today, but it is a powerful tool on which all developers rely heavily.
 
-Virtually every software company stores its code GitHub or a similar service.
+Virtually every software company stores its code GitHub or a similar service. 
 
 Think about Google Drive: what is it?
 

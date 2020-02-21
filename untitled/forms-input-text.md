@@ -14,7 +14,7 @@ document.addEventListener("click",function(e){
 })
 ```
 
-We start by creating an input field using the `input` HTML tag and give it an id of `searchTxt`. **Notice** that `input` is a self-closing tag.
+We start by creating an input field using the `input` HTML tag and give it an id of `searchTxt`. **Notice** that `input` is a self-closing tag. 
 
 Next, we create our event listener like before. We then use `console.log` to print out the value of what the user types into our new input field. And we do this using `getElementById("searchTxt").value`. The `value` method allows us to grab whatever was typed into the `input` field with the id of `searchTxt`. 
 

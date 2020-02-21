@@ -4,7 +4,7 @@ description: Safely accessing properties from outside the class.
 
 # Getters & Setters
 
-When we create public properties \(a.k.a. variables\) in our class, we're allowing any other class to create an object of that type and directly manipulate the properties. Take a moment and think about why this might be bad?
+When we create public properties \(a.k.a. variables\) in our class, we're allowing any other class to create an object of that type and directly manipulate the properties. Take a moment and think about why this might be bad? 
 
 Let's go back to our video game. Each lion has a speed. Suppose lions get faster the longer they live, but you want to enforce a maximum speed so that the game doesn't become unbeatable at some point due to lions flying around at the speed of light. 
 

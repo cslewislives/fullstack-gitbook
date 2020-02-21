@@ -8,7 +8,7 @@ The main points are:
 
 * Errors occur in all programs.
 * Every programming language has a way to handle errors.
-* Exceptions are the approach that Java takes.
+* Exceptions are the approach that Java takes. 
 
 #### Definition
 

@@ -38,7 +38,7 @@ Examining the code on line 11, you will see that Random generates decimal number
 
 Because of how Random functions, the following line \(14\)`int randomInt=randomGenerator.nextInt(4);` will generate a number between 0 and 3 inclusive.  The is because int rounds down to the nearest whole integer. 
 
-In order to capture the range 1 to 4, you must incorporate a 1 after the nextInt \(ie line 18\)
+In order to capture the range 1 to 4, you must incorporate a 1 after the nextInt \(ie line 18\) 
 
 {% embed url="https://youtu.be/6WjG2vHqr64" %}
 

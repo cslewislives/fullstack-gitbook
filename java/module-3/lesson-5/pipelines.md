@@ -7,5 +7,5 @@
   * A source of data \(a collection, for example\)
   * Zero or more intermediate aggregate operations
   * One terminal operation
-* Pipelines allow for more complex processing of a group of objects in a collection
+* Pipelines allow for more complex processing of a group of objects in a collection 
 

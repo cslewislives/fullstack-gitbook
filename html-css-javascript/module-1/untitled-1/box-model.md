@@ -6,7 +6,7 @@ The box model applies to all elements whether they are text, images, div section
 
 ![The Box Model](../../../.gitbook/assets/image%20%2862%29.png)
 
-### Calculate Size
+### Calculate Size 
 
 Using the image below, calculate the size of the Blue Box:
 

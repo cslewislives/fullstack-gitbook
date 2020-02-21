@@ -2,7 +2,7 @@
 
 ![](https://lh6.googleusercontent.com/0a-PPKC35sPxR-QLQa4pM2g1gnfiqMkQ6cccOHiiSnCx700xzCvdtHfo9887Q3W1z5TYGKdGaVh-K01_WIXXmCFW2nVj1JlHFITHlZ3_PjPkDUs_BxvhIyQC7i9BvFDmdN8erWzuP4I)
 
-Twitter Bootstrap is a free collection of tools for creating websites and web applications. 
+Twitter Bootstrap is a free collection of tools for creating websites and web applications.  
 
 It comes with a pre-built design template for typography, forms, buttons, navigation, UI elements and JavaScript.
 

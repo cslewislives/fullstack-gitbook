@@ -14,7 +14,7 @@ Similar to single dimension arrays, for loops will be utilized. But in the case 
     };
 ```
 
-In the prior section, it was demonstrated that every element in the above multi-dimensional array can be accessed by specifying its **index position**. 
+In the prior section, it was demonstrated that every element in the above multi-dimensional array can be accessed by specifying its **index position**.  
 
 * For example "3" was accessed by referencing multiArr\[1\]\[2\].
 

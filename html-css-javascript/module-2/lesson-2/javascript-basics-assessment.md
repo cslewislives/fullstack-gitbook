@@ -4,7 +4,7 @@ Before continuing with the lessons go ahead and attempt the following assessment
 
 ![JavaScript Basics](../../../.gitbook/assets/image%20%2860%29.png)
 
-### **Instructions:**
+### **Instructions:** 
 
 * Create a new folder in your **prework repo** called `JavaScript_Basics_Assessment`.
 * Complete the following activities in separate files named after each activity, `activity-2.js`, etc.

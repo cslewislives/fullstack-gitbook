@@ -9,7 +9,7 @@ description: An example of an unchecked exception.
 1. Create and run this first example.
 2. Test it with 0 and 11 and then a number in range to show that it works.
 3. Test it with "a" and watch it blow up.
-4. Point out that even though the code could throw and exception \(it just did!\), we didn't need to handle it because it was unchecked.
+4. Point out that even though the code could throw and exception \(it just did!\), we didn't need to handle it because it was unchecked. 
 
 ```java
 package com.company.exceptions;

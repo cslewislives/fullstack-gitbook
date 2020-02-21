@@ -4,7 +4,7 @@
 
 ![Reset CSS](../../../.gitbook/assets/image.png)
 
-Using the file provided, follow the instructions. 
+Using the file provided, follow the instructions.  
 
 {% file src="../../../.gitbook/assets/example.html" caption="Reset CSS" %}
 

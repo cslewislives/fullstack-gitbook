@@ -1,6 +1,6 @@
 # Terminal
 
-### **What, Why, and When**
+### **What, Why, and When** 
 
 The terminal/gitbash is a way to interact with your computer via text only.
 

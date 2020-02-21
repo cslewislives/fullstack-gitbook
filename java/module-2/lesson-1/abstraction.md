@@ -6,7 +6,7 @@ description: Understanding real world models in order to turn them into code.
 
 As we think about the world around us, what kind of **tools** help us to accomplish everyday tasks like getting directions to a new restaurant or saving an email attachment to our computer? What about more complex tasks like building a garden-shed or putting together some flat-pack furniture?
 
-If you answered Google Maps, files and folders on our computer desktop, construction blue prints or Ikea's famous step-by-step directions, you are on the correct path. 
+If you answered Google Maps, files and folders on our computer desktop, construction blue prints or Ikea's famous step-by-step directions, you are on the correct path.  
 
 What do all of these seemingly dis-separate things all have in common? They are **models**, or abstractions, of the things that will help us accomplish our goal. 
 

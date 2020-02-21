@@ -10,7 +10,7 @@ The best way to learn to code is to jump in with both feet.
 
 For this `helloworld` activity, we are going to start by creating a new project.
 
-We suggest reading the following steps, watching the related video, and only then creating the project on your own. 
+We suggest reading the following steps, watching the related video, and only then creating the project on your own.  
 
 * Open your IntelliJ IDE. 
 * From the introductory screen, click `+ Create New Project`.

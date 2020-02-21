@@ -9,7 +9,7 @@
    * In the `javascript` folder, make a file called `game.js`. Use the `src` attribute of the `script` tag to link to this file, rather than embedding the code directly in your HTML document.
    * In the `css` folder, make a file called `style.css`.
    * Also in the `css` folder, make a file called `reset.css`. Paste into it the code from the Meyerweb reset stylesheet. If you opt to use Bootstrap instead of writing your own CSS, skip this step, and simply include a link to Bootstrap via CDN.
-   * In the `images` folder, save whatever images you plan on using.
+   * In the `images` folder, save whatever images you plan on using. 
 
 ```text
 ├── assets

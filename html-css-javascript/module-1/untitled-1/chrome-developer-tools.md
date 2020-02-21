@@ -1,16 +1,12 @@
 # Chrome Developer Tools
 
-**What:**
+### **What, Why, and When**
 
 Chrome Developer Tools is a set of tools built into the browser that allows developers to test and debug their code easily in the browser.
 
-**Why:**
-
 Developer tools significantly speed up the development process by allowing you to test things in the browser before you implement them in your actual project. 
 
-**When:**
-
-You can use developer tools to easily make quick CSS changes and see how they will look without having to edit your CSS, save the file, and refresh your web page.
+You can use developer tools to easily make quick CSS changes and see how they will look without having to edit your CSS, save the file, and refresh your web page. 
 
 ### The Tools
 

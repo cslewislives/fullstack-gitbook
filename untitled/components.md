@@ -6,7 +6,7 @@ description: A Scalable Front-End Architecture
 
 We've learned how to dynamically render data from the server to the page on a small scale but real applications are doing this on a much larger scale.
 
-Think about Facebook and you're on your feed:
+Think about Facebook and you're on your feed: 
 
 * New posts are being rendered. 
 * New comments are coming in on each post. 

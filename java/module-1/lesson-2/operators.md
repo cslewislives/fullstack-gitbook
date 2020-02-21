@@ -6,7 +6,7 @@ description: Operators are used to combine values to create a new value.
 
 {% embed url="https://www.youtube.com/watch?v=LPM3c-unrHU&feature=youtu.be" caption="" %}
 
-## Arithmetic Operators
+## Arithmetic Operators 
 
 Arithmetic operators are used to make a single numerical value from two or more numerical operands. That's a long-winded way to say you can add a few numbers to get a new number. 
 

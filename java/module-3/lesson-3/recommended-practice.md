@@ -8,7 +8,7 @@ description: Practice activities for Module 3 Lesson 3.
 
 ## Activities
 
-The set of activities will work to grow your knowledge of the 'Map' functionality. Details can be found inside the file above. 
+The set of activities will work to grow your knowledge of the 'Map' functionality. Details can be found inside the file above.  
 
 You **should** write your code to **pass the tests** that are included with the starter file. The tests will be triggered when the IntelliJ program is run. The output screen will detail any discrepancies.  
 

@@ -4,7 +4,7 @@ description: A method for constructing new objects.
 
 # Constructors
 
-A constructor is a special method that is called when you instantiate a class \(remember that **an instantiated class is an object**—we can't emphasize this point enough\).
+A constructor is a special method that is called when you instantiate a class \(remember that **an instantiated class is an object**—we can't emphasize this point enough\). 
 
 Constructors are used to initialize \(that is set the initial state of\) the object being created from the class.
 

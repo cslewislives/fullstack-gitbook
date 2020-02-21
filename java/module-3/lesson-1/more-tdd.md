@@ -4,7 +4,7 @@
 
 Tests serve as a debugging tool, a means to ensure that your code meets the clients requirements, documentation, and design tool. 
 
-It is entirely normal to spend more time writing tests than coding and have more lines of test code than production code. 
+It is entirely normal to spend more time writing tests than coding and have more lines of test code than production code.  
 
 The money spent on developer time writing tests, pays for itself ten fold in saved developer time on maintenance and debugging.
 

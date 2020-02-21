@@ -6,7 +6,7 @@ description: 'Interfaces allow us to express loosely coupled, contract-like rela
 
 Interfaces are a tool to help us organize our code and express relationships between objects.
 
-So far, we have looked at individual classes/objects, but we do not have a way to capture relationships in a reusable way. Interfaces allow us to express loosely coupled, contract-like relationships. An interface advertises to the world that an implementing class has a particular set of capabilities. If two classes say they fulfill the contract expressed in a particular interface, you can count on the two classes to act the same with respect to the capabilities defined in the interface \(they may have other, completely unrelated capabilities as well\).
+So far, we have looked at individual classes/objects, but we do not have a way to capture relationships in a reusable way. Interfaces allow us to express loosely coupled, contract-like relationships. An interface advertises to the world that an implementing class has a particular set of capabilities. If two classes say they fulfill the contract expressed in a particular interface, you can count on the two classes to act the same with respect to the capabilities defined in the interface \(they may have other, completely unrelated capabilities as well\). 
 
 #### Real-World Examples of Interfaces
 

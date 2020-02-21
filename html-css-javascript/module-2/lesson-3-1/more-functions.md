@@ -4,7 +4,7 @@ Because functions are a fundamental part of JavaScript and programming in genera
 
 * Different ways to write functions
 * More arguments and logic practice
-* The `return` statement.
+* The `return` statement. 
 
 You'll be using functions for as long as you continue to program. Not only will you learn more about functions, but gain additional practice using them for various scenarios.
 

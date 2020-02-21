@@ -2,7 +2,7 @@
 
 ![Text Layout](../../../.gitbook/assets/image%20%2892%29.png)
 
-Using [JSBin](https://jsbin.com/hilococ/1/edit?html,output) follow the instructions below. Please attempt the activity before looking at the solution:
+Using [JSBin](https://jsbin.com/hilococ/1/edit?html,output) follow the instructions below. Please attempt the activity before looking at the solution: 
 
 {% tabs %}
 {% tab title="Instructions" %}

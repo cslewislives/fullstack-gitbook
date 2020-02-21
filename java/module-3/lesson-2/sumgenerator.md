@@ -4,7 +4,7 @@ description: sum method walk-through
 
 # SumGenerator
 
-We are going to implement a helper class called `SumGenerator`. This class contains the following methods:
+We are going to implement a helper class called `SumGenerator`. This class contains the following methods: 
 
 * `sum` - which takes in an integer, `n`, and returns the sum from 1 to n, inclusive.
 * `evenSum` - which takes in an integer, `n`, and returns the sum of the even integers from 1 to n, inclusive.

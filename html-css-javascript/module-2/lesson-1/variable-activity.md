@@ -2,11 +2,13 @@
 
 ![Variables](../../../.gitbook/assets/image.png)
 
+Make sure you attempt the activity on your own before looking at the solution.
+
 {% tabs %}
 {% tab title="Instructions" %}
 ### Instructions:
 
-In your console write code to answer these questions:
+In your console write code to answer these questions: 
 
 * How do you create a variable that holds the string 'Joe Smith'?
 * How do you create a variable that holds my favorite number, 9?

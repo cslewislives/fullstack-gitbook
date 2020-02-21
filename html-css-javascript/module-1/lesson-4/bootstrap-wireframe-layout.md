@@ -1,2 +1,0 @@
-# Bootstrap Wireframe Layout
-

@@ -2,7 +2,7 @@
 
 ![Box Model](../../../.gitbook/assets/image.png)
 
-Head to [this JSBin link](https://jsbin.com/yudidic/3/edit?html,css,output) and follow the instructions below:
+Head to [this JSBin link](https://jsbin.com/yudidic/3/edit?html,css,output) and follow the instructions below: 
 
 {% tabs %}
 {% tab title="Instructions" %}

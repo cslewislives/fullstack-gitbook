@@ -1,6 +1,6 @@
 # Object Equality
 
-What does it mean for two objects to be equal?
+What does it mean for two objects to be equal? 
 
 ### Shallow Equality
 

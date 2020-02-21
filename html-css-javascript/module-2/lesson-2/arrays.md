@@ -2,7 +2,7 @@
 
 ### What, Why, and When
 
-An **array**, denoted by brackets `[]`, is an indexed collection of data elements preferably of the same type and stored in a single variable.
+An **array**, denoted by brackets `[]`, is an indexed collection of data elements preferably of the same type and stored in a single variable. 
 
 Anytime you have multiple elements you want to store, like a series of stock symbols you are watching, you can store them in an array. 
 

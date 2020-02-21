@@ -8,7 +8,7 @@ If you successfully completed the arrays activity, you already have an understan
 
 As demonstrated, you use the **index operator** to access the individual elements in an array. 
 
-To access an array element, you reference the name of the array and the index number of the element that you want to view. Remember, the position of index elements begins with the number 0.
+To access an array element, you reference the name of the array and the index number of the element that you want to view. Remember, the position of index elements begins with the number 0. 
 
 ```java
         String[] Pets = {"dog", "cat", "rabbit", "ferret", "parrot"};

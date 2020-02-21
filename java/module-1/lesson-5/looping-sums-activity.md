@@ -2,7 +2,7 @@
 
 ![Looping Sums](../../../.gitbook/assets/image%20%2880%29.png)
 
-In the following activity, you are going to loop through an array of numbers to determine the sum. You will be doing this using both the traditional and the enhanced for loops. 
+In the following activity, you are going to loop through an array of numbers to determine the sum. You will be doing this using both the traditional and the enhanced for loops.  
 
 {% tabs %}
 {% tab title="Looping Sums Activity" %}

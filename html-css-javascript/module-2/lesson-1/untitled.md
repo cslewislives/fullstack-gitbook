@@ -8,7 +8,7 @@ If you open your Chrome Devtools and open the Console Tab \(CMD + Option + J\) o
 
 We’ll be using the Chrome console frequently as it will inform us of errors in our JavaScript code. It should be the first place we check if our code isn't working as expected.
 
-Type the following into your console and hit Enter
+Type the following into your console and hit Enter 
 
 ```javascript
 'Hello'

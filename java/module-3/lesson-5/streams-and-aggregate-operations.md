@@ -6,7 +6,7 @@ description: An overview of streams and aggregate operations.
 
 This section introduces the concepts of streams and aggregate operations. We take a top-down approach to presenting these topics, so here we just introduce the big picture.
 
-In following sections, we look at putting several operations together in a pipeline, comparing stream processing with iterators and loops, and using lambda expressions with aggregate operations.
+In following sections, we look at putting several operations together in a pipeline, comparing stream processing with iterators and loops, and using lambda expressions with aggregate operations. 
 
 #### About Streams and Aggregate Operations
 

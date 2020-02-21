@@ -4,7 +4,7 @@
 
 **Instructions:**
 
-Using only the Chrome Console, find the answers to the following problems! Note the statement you typed to get your result!
+Using only the Chrome Console, find the answers to the following problems! Note the statement you typed to get your result! 
 
 1. 7482 divided by 281
 2. 3.14 times 5 divided by 3

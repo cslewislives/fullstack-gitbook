@@ -1,12 +1,12 @@
 # Variables
 
-### What and Why
+### What, When, and Why
 
 Variables are the nouns of JavaScript. They are named containers that we can refer to by name to access the stored data inside.
 
 Using variables keeps us from having to retype data over and over. Instead, we can just refer back to the variable containing the data. It keeps our code clean, readable, and easier to debug.
 
-Let's say you wanted to store pi to 50 decimal places. Later on, you'll want to refer to pi in 50 decimal places but instead of retyping or even copying and pasting, you could store the data in a variable and just refer to that variable name.
+Let's say you wanted to store pi to 50 decimal places. Later on, you'll want to refer to pi in 50 decimal places but instead of retyping or even copying and pasting, you could store the data in a variable and just refer to that variable name. 
 
 ### Writing Variables
 

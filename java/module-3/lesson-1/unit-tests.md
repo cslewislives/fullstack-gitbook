@@ -2,7 +2,7 @@
 
 The focus of this lesson will be on **Unit Tests.** Writing tests takes time and you may be tempted to skip it but we really can't stress enough how important it is, testing can save you in so many ways. 
 
-### JUnit
+### JUnit 
 
 For this course we will be using JUnit as our Unit testing framework. We will need to add the dependency to our projects moving forward.
 

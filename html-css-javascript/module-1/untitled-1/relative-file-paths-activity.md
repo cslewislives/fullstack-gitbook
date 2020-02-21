@@ -4,7 +4,7 @@
 
 {% file src="../../../.gitbook/assets/relative-paths.zip" caption="Relative Paths" %}
 
-**Instructions:**
+**Instructions:** 
 
 Modify each of the four `index.html` pages, provided above, such that they can access the CSS inside their folder. Don't move the CSS file, and don't move the HTML file.
 

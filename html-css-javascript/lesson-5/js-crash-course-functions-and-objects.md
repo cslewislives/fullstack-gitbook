@@ -13,7 +13,7 @@ In Java the closest thing to a function is called a **method.** Let's take a loo
 * A method may or may not return a value.
   * Example: That add method we mentioned before may return the sum of the two numbers passed in. But an alternate implementation of the add method may not return the sum; instead, it may just print the sum out to the console.
 
-When writing a method the syntax is very similar to a JavaScript Function declaration:
+When writing a method the syntax is very similar to a JavaScript Function declaration: 
 
 {% tabs %}
 {% tab title="JavaScript" %}

@@ -8,7 +8,7 @@ description: Practice activities for Module 2 Lesson 4.
 
 ## Activities
 
-There are two files associated with the Lesson 4 activities. 
+There are two files associated with the Lesson 4 activities.  
 
 1. The first set of katas involves creating a UML diagram for a Home and the various rooms. Upon completion of the diagram, create an IntelliJ project that mirrors the Home and the rooms of which it is 'comprised'.
 2. Utilize the starter code included with the second activity to navigate through the creation and extension of vehicle interface and various related classes. 

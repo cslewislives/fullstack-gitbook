@@ -2,7 +2,7 @@
 
 ![Intro to CSS](../../../.gitbook/assets/image%20%284%29.png)
 
-Head to [this JSBin link](https://jsbin.com/detoxaf/1/edit?html,css,output) and follow the instructions below:
+Head to [this JSBin link](https://jsbin.com/detoxaf/1/edit?html,css,output) and follow the instructions below: 
 
 ### GOALS:
 

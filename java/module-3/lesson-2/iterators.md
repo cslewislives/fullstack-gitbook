@@ -4,7 +4,7 @@ description: A brief explanation of iterators
 
 # Iterators
 
-**What tools did we use to visit each element in an array?**
+**What tools did we use to visit each element in an array?** 
 
 ### The need for iterators
 

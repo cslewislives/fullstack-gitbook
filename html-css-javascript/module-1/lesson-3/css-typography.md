@@ -6,7 +6,7 @@ description: Writing in Style
 
 Typography can play a huge role in the visual aesthetic and emotional identity of a web page. 
 
-### Typographic Properties
+### Typographic Properties 
 
 ![](https://lh6.googleusercontent.com/IEolQ341c6y-0P_FpKyEKizODWBkEfh3nR9jzoWXe6BfayTXjKE68SbEhw3KG66lEoON5Jl-PM448d-GL-_YqDWO_6DuLoEh5xqDbbZiVKMVxgwHgooryN7HQbn1w9YGaCGNw58agAs)
 

@@ -8,7 +8,7 @@ description: >-
 
 ## Defining Encapsulation
 
-The examination of 'public interface vs. private implementation' leads directly into the Java concept of **encapsulation**. Understand the concept of encapsulation is integral to developing well-constructed classes.
+The examination of 'public interface vs. private implementation' leads directly into the Java concept of **encapsulation**. Understand the concept of encapsulation is integral to developing well-constructed classes. 
 
 The over-arching ideas of encapsulation as it relates to Java classes are that:
 

@@ -8,7 +8,7 @@ If you choose double or single quotes, continue using one or the other for consi
 
 We will mostly be using single quotes `'` ourselves.
 
-Type the following into your console and hit Enter after each line
+Type the following into your console and hit Enter after each line 
 
 ```javascript
 'This is a string!'

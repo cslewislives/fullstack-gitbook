@@ -8,7 +8,7 @@ description: Practice activities for Module 1 Lesson 5.
 
 ##  Activities <a id="activities"></a>
 
-* Total
+* Total 
 * TotalOdd
 * TotalEven
 * 2ndLargestNumber

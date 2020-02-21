@@ -4,7 +4,7 @@ An object's properties can be any type of value we can store in a regular variab
 
 Object properties can also contain functions. We refer to functions that exist on an object as **methods**.
 
-Check out the following code:
+Check out the following code: 
 
 ```javascript
 // In addition to static properties, an object can also contain functions we refer to as methods

@@ -4,7 +4,7 @@ description: Rules and an example of constructors and inheritance.
 
 # Constructors and Inheritance
 
-Inheritance introduces a layer of complexity on constructors: which constructor is run when I instantiate a class that extends another class?
+Inheritance introduces a layer of complexity on constructors: which constructor is run when I instantiate a class that extends another class? 
 
 ### Rules of Constructors
 

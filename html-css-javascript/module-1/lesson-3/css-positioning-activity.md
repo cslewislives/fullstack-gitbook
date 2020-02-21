@@ -2,7 +2,7 @@
 
 ![CSS Positioning](../../../.gitbook/assets/image.png)
 
-### Instructions: <a id="instructions"></a>
+### Instructions:  <a id="instructions"></a>
 
 Create a file called `positioning.html` and a file called `positioning.css`.
 

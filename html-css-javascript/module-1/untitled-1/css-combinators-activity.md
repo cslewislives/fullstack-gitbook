@@ -8,7 +8,7 @@
 {% tab title="Instructions" %}
 **Instructions:**
 
-Using the files provided
+Using the files provided 
 
 1. Give all descendant `p` elements of `#div1` a black background color with white font.
 2. Give only child `p` elements of `#div2` a cyan background with red font, exclude paragraphs in the span element.

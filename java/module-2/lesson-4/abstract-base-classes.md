@@ -11,7 +11,7 @@ Abstract base classes are another organizational too, that are something in betw
 1. They cannot be instantiated. Abstract base classes are meant to be extended; they are not meant to stand on their own.
 2. They can provide implementations of methods \(just like regular classes\).
 3. They can have properties \(just like regular classes\).
-4. They can define methods with no implementation. Regular classes cannot do this; this is similar to an interface. Any class that extends the abstract base class MUST provide an implementation for each of these methods.
+4. They can define methods with no implementation. Regular classes cannot do this; this is similar to an interface. Any class that extends the abstract base class MUST provide an implementation for each of these methods. 
 
 ### Example of Use
 

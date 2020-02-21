@@ -7,7 +7,7 @@ In essence, methods can take four forms.
 * No return value, no parameters
 * Return value, no parameters
 * No return value, one or more parameters
-* Return value, one or more parameters
+* Return value, one or more parameters 
 
 These are patterns that you will see over and over. You need to memorize these and practice recognizing them. This will become second nature very quickly.
 

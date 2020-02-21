@@ -14,7 +14,7 @@ description: Practice activities for Module 1 Lesson 2.
 * SubtractTwo
 * AddThirteen
 * AddFiveAndDouble
-* DoubleAndAddFive
+* DoubleAndAddFive 
 
 There is starter code for all 7 of the katas included in the file. 
 

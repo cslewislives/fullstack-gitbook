@@ -14,7 +14,7 @@ You'll notice that we have been referencing external stylesheets using the follo
 
 Remember that an external stylesheet is a separate file that holds the code for all of our styling.
 
-Look at the following code and what it creates:
+Look at the following code and what it creates: 
 
 {% tabs %}
 {% tab title="HTML" %}

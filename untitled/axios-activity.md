@@ -2,7 +2,7 @@
 
 ![Axios](../.gitbook/assets/image%20%28103%29.png)
 
-As always attempt the activity yourself before checking out the solution.
+As always attempt the activity yourself before checking out the solution. 
 
 {% tabs %}
 {% tab title="Instructions" %}

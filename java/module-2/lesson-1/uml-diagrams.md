@@ -8,7 +8,7 @@ Before we start creating classes \(or objects\) en mass, it will be helpful to t
 
 One way to visually represent our classes is through the creation of a **UML Diagram.**
 
-Navigate to the website [draw.io](https://about.draw.io/uml-class-diagrams-in-draw-io/)**.**
+Navigate to the website [draw.io](https://about.draw.io/uml-class-diagrams-in-draw-io/)**.** 
 
 * Scroll down to the 'UML class diagram notation `section, and more specifically, 'Classes`. 
 

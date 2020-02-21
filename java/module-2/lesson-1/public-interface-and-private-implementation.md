@@ -6,7 +6,7 @@ description: Separating "what" a class can do from "how" it does it.
 
 Every class should have a well defined way to interact with the world. Generically, we call this the class's **public interface**. 
 
-The implementation of the class \(the **how**\) should be hidden from the outside world . We call this the class's **private implementation**.
+The implementation of the class \(the **how**\) should be hidden from the outside world . We call this the class's **private implementation**. 
 
 "Public interface vs. private implementation" allows us to separate the "what" from the "how".
 

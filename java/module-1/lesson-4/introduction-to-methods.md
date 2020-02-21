@@ -14,7 +14,7 @@ Methods are like mathematical functions. They take 0 or more inputs, perform som
 
 If you don't like math, you can think of methods like the order counter at the ice cream shop. The inputs are your order and your money; the output is some delicious ice cream. The ice cream you get depends on what you ordered and whether or not you have enough money.
 
-Over the next few articles, we'll learn all about methods. For now check out the code below and see which tab looks cleaner to you. 
+Over the next few articles, we'll learn all about methods. For now check out the code below and see which tab looks cleaner to you.  
 
 {% tabs %}
 {% tab title="Without Methods" %}

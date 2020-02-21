@@ -4,7 +4,7 @@
 * This includes deciding what Exceptions should be thrown in what scenario
 * Since throwing an Exception can be defined as expected behavior, f.ex. expecting to throw an Exception when we divide by zero, we need to be able to test for these Exceptions.
 
-You can test for an exception using the expected value in the `@Test` annotation.
+You can test for an exception using the expected value in the `@Test` annotation. 
 
 ```java
 import org.junit.Before;

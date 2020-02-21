@@ -2,7 +2,7 @@
 
 JavaScript lacks abstract classes and interfaces, but it does have a mechanism for inheritance called **Prototypal Inheritance**. 
 
-Although internally JavaScript inheritance differs from Java inheritance a bit, on the surface the two are very similar.
+Although internally JavaScript inheritance differs from Java inheritance a bit, on the surface the two are very similar. 
 
 {% tabs %}
 {% tab title="Java" %}

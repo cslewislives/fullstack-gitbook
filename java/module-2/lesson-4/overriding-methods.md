@@ -4,7 +4,7 @@ description: Explanation and an example of overriding methods.
 
 # Overriding Methods
 
-First let us start out with a quick review of **method overloading** so that there is no confusion between the two concepts.
+First let us start out with a quick review of **method overloading** so that there is no confusion between the two concepts. 
 
 #### What We Know About Method Overloading
 

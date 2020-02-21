@@ -6,7 +6,7 @@ description: Understand how to declare and initialize an array.
 
 ## Declaring an Array
 
-The difference between arrays and the previous variable that we have examined is that arrays are made up of **more than one element**. 
+The difference between arrays and the previous variable that we have examined is that arrays are made up of **more than one element**.  
 
 Arrays must be declared and initialized just like the variables that we’ve already seen, but arrays  require a special syntax. 
 

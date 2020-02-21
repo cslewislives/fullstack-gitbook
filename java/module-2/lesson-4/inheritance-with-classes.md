@@ -15,7 +15,7 @@ This structure would look like this:
 
 * Developer -&gt; TeamLead -&gt; Architect
 
-Now lets take a look at what the code for this would look like:
+Now lets take a look at what the code for this would look like: 
 
 ```java
 package com.company.inheritance;

@@ -2,7 +2,7 @@
 
 ### Combinators
 
-In the previous lesson, we used two types of selectors - elements \(like `h1` and `body`\) and classes \(like `.dark` and `.big`\).
+In the previous lesson, we used two types of selectors - elements \(like `h1` and `body`\) and classes \(like `.dark` and `.big`\). 
 
 Sometimes we want to be more specific than this. Maybe we want to make every paragraph that's in a `div` blue, but _only_ paragraphs inside `div`s, not all paragraphs.
 

@@ -4,7 +4,7 @@ description: Introduction of the protected access modifier.
 
 # Access Control
 
- We have seen `public` \(everyone can see and use the code\) and `private` \(only code inside the class can see and use the code\). Since we now have a new relationships between classes \(inheritance\), we have a new access modifier `protected`. This means that only code inside this class or any classes that extend it can see and use the code.
+ We have seen `public` \(everyone can see and use the code\) and `private` \(only code inside the class can see and use the code\). Since we now have a new relationships between classes \(inheritance\), we have a new access modifier `protected`. This means that only code inside this class or any classes that extend it can see and use the code. 
 
 * Anything marked `private` cannot be seen or used by any derived classes. If you want a derived class to see/use the code, mark it `public` or `protected`.
 

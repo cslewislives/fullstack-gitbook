@@ -6,15 +6,13 @@ description: >-
 
 # Java Coding Conventions
 
-
-
 ### Indentation and Line Breaks
 
 > "Programs should be written for people to read, and only incidentally for machines to execute."
 >
 > Hal Abelson
 
-What do you think this quote means? 
+What do you think this quote means?  
 
 The average developer spends an astounding 70% of their time reading and maintaining existing code. Another 20% of their time is spent designing projects and only 10% is spent actually coding. This means that the most economic thing you can do as a developer is write easy to read code.  
 

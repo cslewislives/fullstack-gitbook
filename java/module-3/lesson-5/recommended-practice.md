@@ -8,7 +8,7 @@ description: Practice activities for Module 3 Lesson 5.
 
 ## Activities
 
-This last set of activities for the Java portion of this course will examine Lambdas and Streams. Detailed instructions are contained in the above file.  
+This last set of activities for the Java portion of this course will examine Lambdas and Streams. Detailed instructions are contained in the above file.   
 
 You **should** write your code to **pass the tests** that are included with the starter file. The tests will be triggered when the IntelliJ program is run. The output screen will detail any discrepancies.  
 

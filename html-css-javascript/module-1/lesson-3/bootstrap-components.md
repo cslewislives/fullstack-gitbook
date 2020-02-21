@@ -2,7 +2,7 @@
 
 We'll spend a few moments showing you how to utilize the simplest of Bootstrap CSS or components.
 
-Head to [https://getbootstrap.com/](https://getbootstrap.com/)
+Head to [https://getbootstrap.com/](https://getbootstrap.com/) 
 
 ![](../../../.gitbook/assets/6-bootstrapdemo_1.png)
 

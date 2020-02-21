@@ -10,7 +10,7 @@ This assessment will be a challenge, but try to work through the steps to the be
 
 Be sure to read through ALL of the instructions before beginning the assignment.  
 
-### Create a Portfolio Site
+### Create a Portfolio Site 
 
 * Create a new new folder in your **prework repo** titled `Module-1_Assessment`.
 * Navigate to the `Module-1_Assessment` folder that you just created. Inside this folder, create the following:

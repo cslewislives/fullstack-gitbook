@@ -4,7 +4,7 @@ description: Variables store data that our program needs to access later.
 
 # Variables
 
-Variables are named bits of computer memory in which you can store a value. They are the core of any programming language. Thus far we've printed values, but we haven't stored them. But what would you do if you wanted to implement 2-factor authentication? You need a user to input a password, but you can't just print it. You need to store it and wait for the additional login code to be inputted before you begin the task of validating them. 
+Variables are named bits of computer memory in which you can store a value. They are the core of any programming language. Thus far we've printed values, but we haven't stored them. But what would you do if you wanted to implement 2-factor authentication? You need a user to input a password, but you can't just print it. You need to store it and wait for the additional login code to be inputted before you begin the task of validating them.  
 
 In short, you need to store values somewhere. 
 

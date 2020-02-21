@@ -4,7 +4,7 @@
 
 **Instructions:**
 
-Take a website that you commonly use \(Amazon, Huffington Post, etc.\) and heavily modify it using the Chrome Developer Tools. Really get creative here!
+Take a website that you commonly use \(Amazon, Huffington Post, etc.\) and heavily modify it using the Chrome Developer Tools. Really get creative here! 
 
 Be sure to at least modify:
 

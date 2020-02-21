@@ -4,7 +4,7 @@ A lot of what we'll be doing when it comes to front-end development is taking da
 
 A lot of data that we are rendering comes from a server, and a lot of server data comes to us as lists and arrays. One of the most basic tasks is taking an array of items and rendering it to the page.
 
-We have already seen how to do this in the previous lesson, with code that looked like this:
+We have already seen how to do this in the previous lesson, with code that looked like this: 
 
 ```javascript
 const nameList = ["George", "Sue", "Tim", "Lin"]

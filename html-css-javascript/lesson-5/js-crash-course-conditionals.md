@@ -2,7 +2,7 @@
 
 ### Conditionals
 
-When writing If/Else statements in Java once again it will look fairly identical to JS:
+When writing If/Else statements in Java once again it will look fairly identical to JS: 
 
 {% tabs %}
 {% tab title="JavaScript" %}

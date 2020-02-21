@@ -6,12 +6,10 @@ description: >-
 
 # Java Collections
 
-
-
 * So far, the most complex data structure we've seen is the array, which is quite limited.
 * The collections framework gives us some nice tools for organizing and manipulating data and objects in our programs.
 * We're going to learn about the collections framework in general and the List interface \(and ArrayList implementation\) specifically.
-* We'll learn to use lists in a program to do more complex things.
+* We'll learn to use lists in a program to do more complex things. 
 
  **Prompt: What are some things you wish you could do with an array? What are some of the limitations of arrays? What are some advantages?**
 

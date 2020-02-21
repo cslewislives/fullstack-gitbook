@@ -4,9 +4,9 @@ description: Example that shows that interfaces can be extended as well.
 
 # Inheritance with Interfaces
 
-"Inheritance works with interfaces as well! One interface can extend \(or specialize\) another interface just like a class can extend another class."
+Inheritance works with interfaces as well! One interface can extend \(or specialize\) another interface just like a class can extend another class.
 
-"We're going to go back to the examples we presented in the Interfaces lesson. We are going to extend the `Storable` interface and then have a new class implement the extended interface:"
+We're going to go back to the examples we presented in the Interfaces lesson. We are going to extend the `Storable` interface and then have a new class implement the extended interface:
 
 ```java
 package com.company.interfaces;

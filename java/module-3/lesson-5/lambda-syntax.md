@@ -4,7 +4,7 @@ description: An example of lambda syntax.
 
 # Lambda Syntax
 
-Lambda syntax has a lot of great "syntactic candy" that allow for very concise code. This is really convenient once you understand what is going on, but it can be quite confusing at first. In addition to that, defining a standalone method inline is a little weird, especially for new developers. Here we'll go through a simple example starting with syntax that looks almost like a regular method declaration and then using syntactic shortcuts to transform it into a more concise format.
+Lambda syntax has a lot of great "syntactic candy" that allow for very concise code. This is really convenient once you understand what is going on, but it can be quite confusing at first. In addition to that, defining a standalone method inline is a little weird, especially for new developers. Here we'll go through a simple example starting with syntax that looks almost like a regular method declaration and then using syntactic shortcuts to transform it into a more concise format. 
 
 #### Traditional Method Declaration:
 

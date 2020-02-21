@@ -4,7 +4,7 @@
 
 As always attempt the activity yourself before checking out the solution.
 
-Head to [this JSBin link](https://jsbin.com/quhadom/1/edit?html,js,output) and follow the instructions below, remember to incorporate everything you've learned up till this point:
+Head to [this JSBin link](https://jsbin.com/quhadom/1/edit?html,js,output) and follow the instructions below, remember to incorporate everything you've learned up till this point: 
 
 {% tabs %}
 {% tab title="Instructions" %}

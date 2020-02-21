@@ -8,7 +8,7 @@ description: Comments are notes left for yourself and your team.
 
 Comments are for your teammates, but they are also for you. You may write some code and then switch to working on something else, only to return to your original code months later. By then, you might have forgotten where your head was at when you wrote the code or what you were aiming to do. Comments come in very handy in those cases!
 
-Comments are completely ignored by the compiler. They are only for other humans to read. 
+Comments are completely ignored by the compiler. They are only for other humans to read.  
 
 There are 2 types of comments - block comments and single-line comments. 
 

@@ -14,7 +14,7 @@ Within HTML you can link multiple stylesheets like so:
 <link  rel="stylesheet" type="text\css" href="style3.css">
 ```
 
-Important to note that whichever stylesheet is linked **last** will take precedence over the earlier stylesheets if they reference the same element.
+Important to note that whichever stylesheet is linked **last** will take precedence over the earlier stylesheets if they reference the same element. 
 
 ### Reset CSS
 

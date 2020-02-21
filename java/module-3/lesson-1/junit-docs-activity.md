@@ -2,7 +2,7 @@
 
 Checkout the documentation for JUnit [here!](https://junit.org/junit4/javadoc/latest/)
 
-Note that JUnit 5 is out now, but we are using 4.12. That’s because 4.12 ships with the Spring Initializr starter dependencies. You are welcome \(and encouraged\) to independently upgrade your projects to 5 if you like!
+Note that JUnit 5 is out now, but we are using 4.12. That’s because 4.12 ships with the Spring Initializr starter dependencies. You are welcome \(and encouraged\) to independently upgrade your projects to 5 if you like! 
 
 Goals:
 

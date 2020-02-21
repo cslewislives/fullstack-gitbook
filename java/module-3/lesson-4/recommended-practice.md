@@ -8,7 +8,7 @@ description: Practice activities for Module 3 Lesson 4.
 
 ## Activities
 
-The activity included in this section will enhance you knowledge of exception handling. 
+The activity included in this section will enhance you knowledge of exception handling.  
 
 You **should** write your code to **pass the tests** that are included with the starter file. The tests will be triggered when the IntelliJ program is run. The output screen will detail any discrepancies.  
 

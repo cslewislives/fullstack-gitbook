@@ -2,7 +2,7 @@
 
 ![Prototypal Inheritance](../.gitbook/assets/image%20%28102%29.png)
 
-Make sure you attempt the following activity before checking out the solution code
+Make sure you attempt the following activity before checking out the solution code 
 
 {% tabs %}
 {% tab title="Instructions" %}

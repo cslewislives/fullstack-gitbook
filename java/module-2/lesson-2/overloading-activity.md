@@ -9,7 +9,7 @@
 3. The first `greet` method should take no parameters and print out `"Hello!"`.
 4. The second  `greet` method should take a `String` parameter and print out `"Hello <parameter>!"`. 
 5. The third `greet` method should take an `int` parameter and print out `"Hello!"` the number of times indicated by the parameter. 
-6. Call each of the greet methods. 
+6. Call each of the greet methods.  
 {% endtab %}
 
 {% tab title="Solution" %}

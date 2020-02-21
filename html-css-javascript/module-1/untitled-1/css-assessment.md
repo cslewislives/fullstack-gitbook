@@ -6,7 +6,7 @@ Before continuing with the lessons go ahead and attempt the following assessment
 
 **Instructions**
 
-Attempt to complete all of the goals below.
+Attempt to complete all of the goals below. 
 
 Goals:
 

@@ -7,7 +7,7 @@ description: Explanation and an example of polymorphism with interfaces.
 Polymorphism applies to interfaces in two ways:
 
 * A class that implements an interface can be referred to with a reference that is the type of the interface.
-  * For example, `SchoolRecord` can be referred to as a `SchoolRecord` type or as a `Storable` type.
+  * For example, `SchoolRecord` can be referred to as a `SchoolRecord` type or as a `Storable` type. 
 * Because interfaces can be extended just like classes, you can refer to an object that implements an extended interface with a reference that is the type of the base interface.
 
 ```java

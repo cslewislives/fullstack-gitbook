@@ -8,7 +8,7 @@ We'll be checking out two very useful concepts in HTML: **Divisions and HTML att
 
 A **div** is short for division and is used to help create sections within our HTML. 
 
-Divs aren't visible unless we add styling to it but you can think of divs as a way to separate and contain HTML code.
+Divs aren't visible unless we add styling to it but you can think of divs as a way to separate and contain HTML code. 
 
 ```markup
 <div> 

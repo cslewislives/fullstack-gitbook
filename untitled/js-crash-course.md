@@ -4,7 +4,7 @@ description: partial
 
 # JS Crash Course
 
-In JavaScript you can declare a variable in a variety of ways. 
+In JavaScript you can declare a variable in a variety of ways.  
 
 ```javascript
 var num = 4;

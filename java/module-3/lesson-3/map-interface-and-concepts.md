@@ -4,7 +4,7 @@ description: Discussion of the Map interface.
 
 # Map Interface and Concepts
 
-The map is a powerful key/value data structure that is widely used in Java programs. The map builds on many of the principles presented in the lesson on collections and lists. In this lesson, we cover the basics of using maps in a program.
+The map is a powerful key/value data structure that is widely used in Java programs. The map builds on many of the principles presented in the lesson on collections and lists. In this lesson, we cover the basics of using maps in a program. 
 
 * Maps are similar in many ways to collections and lists: the Map interface defines an API that allows us to manipulate groups of related objects.
 * Maps are a key/value data structure—we store values in the map and associate those values with keys. This is similar to a coat check: they store your coat in the closet and give you a token with a number that maps to the location of your coat in the closet. When you want your coat, you present your token and they use that to find your coat.

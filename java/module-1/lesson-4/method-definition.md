@@ -6,7 +6,7 @@ description: How to create a new method.
 
 You've already seen methods. In fact, you've been working with them since Lesson 1. The main method is needed to run any application and we've included it in every project so far. The main methods primary job is to supply your project with a starting point when you run it. You can create new methods to do new jobs. 
 
-Similar to a variable, we have to define a method before we can use it. We define a method by using a method declaration. The method declaration has several parts. We’ll start with the basics and build outward. The main pieces are:
+Similar to a variable, we have to define a method before we can use it. We define a method by using a method declaration. The method declaration has several parts. We’ll start with the basics and build outward. The main pieces are: 
 
 * The name of the method
 * The body \(code block\) of the method

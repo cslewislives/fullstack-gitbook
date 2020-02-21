@@ -8,7 +8,7 @@ This article is a bit more conceptual, but still important to understand. Before
 
 ### Review of Instantiating Objects
 
-Constructors are special methods that are called when we instantiate an object from a class \(we saw that in the last lesson\). The constructor is used to **initialize** our object. Initialization means setting values for the properties so the object is in a known state.
+Constructors are special methods that are called when we instantiate an object from a class \(we saw that in the last lesson\). The constructor is used to **initialize** our object. Initialization means setting values for the properties so the object is in a known state. 
 
 We indicate that we want to instantiate a new object by using the `new` keyword. We have already used the `new`keyword when using the Scanner \(we just didn't know what it was doing\). Recall `Scanner myScanner = new Scanner(System.in);`
 

@@ -2,7 +2,7 @@
 
 ![Loops](../../../.gitbook/assets/image%20%2837%29.png)
 
-Make sure you attempt the activity on your own before checking out the solution.
+Make sure you attempt the activity on your own before checking out the solution. 
 
 {% tabs %}
 {% tab title="Instructions" %}

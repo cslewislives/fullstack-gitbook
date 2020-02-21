@@ -6,7 +6,7 @@ description: Examining the 5 basic properties of an object-oriented programming 
 
 ### Properties of an Object-Oriented Language
 
-Alan Kay, the gentleman that coined the term "object-oriented programming" \(or OOP\) way back in 1966, summarized OOP in this way:
+Alan Kay, the gentleman that coined the term "object-oriented programming" \(or OOP\) way back in 1966, summarized OOP in this way: 
 
 * **Everything is an object**.
   * A Java object is a combination of data and procedures working on the available data.

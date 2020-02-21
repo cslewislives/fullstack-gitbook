@@ -4,7 +4,7 @@ You can not only modify basic CSS properties, but also incorporate totally custo
 
 Many sources \(like Google\) offer font-faces online for free that can be incorporated into their HTML/CSS.
 
-### How to Add Custom Fonts
+### How to Add Custom Fonts 
 
 * Navigate to the [Google Fonts](https://www.google.com/fonts) web page and find a font-face students like.
 * Hit the "Quick Use" button.

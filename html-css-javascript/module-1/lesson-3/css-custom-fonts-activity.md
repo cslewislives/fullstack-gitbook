@@ -4,7 +4,7 @@
 
 **Instructions:**
 
-Create \(or re-use\) an HTML Document of your choosing and then incorporate 2-3 Custom Google Fonts into the page.
+Create \(or re-use\) an HTML Document of your choosing and then incorporate 2-3 Custom Google Fonts into the page. 
 
 **Challenge:**
 

@@ -4,7 +4,7 @@ description: Example of a class that could be better organized with composition.
 
 # When to Use Composition
 
-The following is an example of a less-than-optimal class. This example represents an e-commerce site that uses separate home and shipping address components. 
+The following is an example of a less-than-optimal class. This example represents an e-commerce site that uses separate home and shipping address components.  
 
 * This model is cumbersome at best.
   * We have some repetition that can be DRYed up, and we can use composition to implement a solution.

@@ -4,7 +4,7 @@ Before continuing with the lessons go ahead and attempt the following assessment
 
 ![CSS and Bootstrap Assessment](../../../.gitbook/assets/image%20%2860%29.png)
 
-**Instructions:**
+**Instructions:** 
 
 * Create a new folder in your **prework repo** titled `Bootstrap_Assessment`
 * Copy the files from your first **HTML and CSS Assessment** into the new folder

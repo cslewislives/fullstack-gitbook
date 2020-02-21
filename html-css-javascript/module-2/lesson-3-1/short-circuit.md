@@ -6,7 +6,7 @@ While we've covered the arithmetic and comparator operators in JavaScript, there
 
 ### OR Operator
 
-Type the following into the console:
+Type the following into the console: 
 
 ```javascript
 true || false;

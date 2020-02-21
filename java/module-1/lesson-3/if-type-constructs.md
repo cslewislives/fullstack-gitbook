@@ -14,7 +14,7 @@ Think about how you would evaluate the conditions that would trigger the cars mo
 * If no pedestrians were present in the crosswalk, the car would move forward. 
 * Can you think of any others?
 
-**If-statements** are one of the two main types of conditionals.
+**If-statements** are one of the two main types of conditionals. 
 
 ## If 
 

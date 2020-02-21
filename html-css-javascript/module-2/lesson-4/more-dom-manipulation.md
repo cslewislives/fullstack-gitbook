@@ -6,7 +6,7 @@ Callback functions are functions that are passed as parameters to another functi
 
 Every time you want to run code triggered by an event, a callback function is being used.
 
-Sometimes we want an action to take place only when the user does something, like a drop down that appears when the user clicks a button.
+Sometimes we want an action to take place only when the user does something, like a drop down that appears when the user clicks a button. 
 
 ### Callbacks
 

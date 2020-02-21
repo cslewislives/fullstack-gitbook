@@ -9,7 +9,7 @@ description: Implement a Java Interface.
 There are two parts to this:
 
 * We must indicate that the class will be adhering to the interface \(we call this **implementing** the interface\).
-* The class must provide and implement each of the methods declared in the interface.
+* The class must provide and implement each of the methods declared in the interface. 
 
 ```java
 public class SchoolRecord implements Storable {

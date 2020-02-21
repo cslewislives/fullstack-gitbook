@@ -8,7 +8,7 @@ description: Practice activities for Module 1 Lesson 1.
 
 Each of the Lesson will have a section of 'Recommended Practice'. It will consist of exercises, called Katas, that will help to solidify the concepts covered over the course of the lesson.
 
-Completing the Recommended Practice katas associated with each lesson will greatly increase your chances of successfully navigating the required 'Summative Assessment' evaluation which is found at the end of each module. 
+Completing the Recommended Practice katas associated with each lesson will greatly increase your chances of successfully navigating the required 'Summative Assessment' evaluation which is found at the end of each module.  
 
 ## Activities
 

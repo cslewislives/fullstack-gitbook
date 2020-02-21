@@ -7,7 +7,7 @@ description: Instructions for updating git config to accept long path values.
 If you have a Windows machine complete the following configuration steps to avoid an issue with long file names in the future:
 
 1. Open up Git Bash and run as administrator. \(This can be done by typing in git bash to the search bar and right clicking the icon and selecting run as administrator from the drop down menu.\)
-2. Type in the following command: 
+2. Type in the following command:  
 
 ```bash
 git config --system core.longpaths true

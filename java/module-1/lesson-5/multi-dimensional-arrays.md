@@ -12,7 +12,7 @@ Let is being our exploration by looking at a two-dimensional array.
 int [][] twoD_arr = new int [3][3];
 ```
 
- The pieces of the code detailed above should look familiar given our earlier work with declaring arrays. 
+ The pieces of the code detailed above should look familiar given our earlier work with declaring arrays.  
 
 * We being, as always, with the data type for our arrays.
 * The groups of square brackets \(\[ \] \[ \]\) indicate that it is a multi dimensional array. Regardless of the number of dimensions, only 2 sets of brackets is utilized. 

@@ -2,7 +2,7 @@
 
 Java is syntactically similar to JavaScript. We’re going to learn some Java fundamentals in this lesson.
 
-Some of this may feel like review, but pay careful attention to the differences between Java and JavaScript. 
+Some of this may feel like review, but pay careful attention to the differences between Java and JavaScript.  
 
 ## Java vs. JavaScript
 

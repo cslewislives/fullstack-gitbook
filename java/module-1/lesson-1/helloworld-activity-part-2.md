@@ -8,7 +8,7 @@ description: Create and run your first Java program.
 
 Now that the IntelliJ project has been created, we are going to write the code to generate the program. 
 
-Watch the second part of the instructional video and then follow along using the steps listed below. 
+Watch the second part of the instructional video and then follow along using the steps listed below.  
 
 {% embed url="https://www.youtube.com/watch?time\_continue=12&v=rGEl64cjMlA" %}
 

@@ -4,7 +4,7 @@ Thus far our programs have run every line of code in order from top to bottom, b
 
 For example, we may want to alert `'You win'` if a user's score is greater than 500.
 
-As our code gets more complex, it's essential that you start relying on your flowcharting skills. Remember to flowchart during every activity.
+As our code gets more complex, it's essential that you start relying on your flowcharting skills. Remember to flowchart during every activity. 
 
 ![](../../../.gitbook/assets/conditional.png)
 

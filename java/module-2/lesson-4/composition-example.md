@@ -5,7 +5,7 @@ description: An example of composition with a new BetterAccount class.
 # Composition Example
 
 * Now that we have created an `Address` class that we can reuse, we can now better organize our previous `BadAccount` class.
-  * We can use our `Address` class to simplify our account and create `homeAddress` and `shippingAddress` properties in our new `BetterAccount` class.
+  * We can use our `Address` class to simplify our account and create `homeAddress` and `shippingAddress` properties in our new `BetterAccount` class. 
 
 ```java
 package com.company.composition;

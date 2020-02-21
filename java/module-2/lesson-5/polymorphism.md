@@ -4,7 +4,7 @@ description: Introduction to and example of polymorphism.
 
 # Polymorphism
 
- Because inheritance represents an **is-a** relationship, there is the possibility of treating a derived class like its parents. This is the main concept of polymorphism.
+ Because inheritance represents an **is-a** relationship, there is the possibility of treating a derived class like its parents. This is the main concept of polymorphism. 
 
 * With the animal -&gt; mammal -&gt; dog hierarchy
   * Can we treat a dog as a mammal?

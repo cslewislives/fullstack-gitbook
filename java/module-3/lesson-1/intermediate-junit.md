@@ -2,7 +2,7 @@
 
 
 
-After looking through the JUnit docs on your own here are a few useful annotations and methods that JUnit offers. We will be using these in the future.
+After looking through the JUnit docs on your own here are a few useful annotations and methods that JUnit offers. We will be using these in the future. 
 
 * `@Before` - Code to run before each test. Generally set up, variable creation, constructor calls, etc.
 * `@BeforeClass` - Code to run once before all tests.

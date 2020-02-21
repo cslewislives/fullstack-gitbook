@@ -10,7 +10,7 @@ Media queries effectively create "conditional css". If a particular width of the
 
 These are what allow Bootstrap CSS to have a fully mobile responsive website. But it's important to be familiar with media queries so you can roll out your own custom mobile responsive designs in the future.
 
-And always remember that Media queries must be declared **last.**
+And always remember that Media queries must be declared **last.** 
 
 For example:
 

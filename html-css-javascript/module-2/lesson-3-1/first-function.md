@@ -4,7 +4,7 @@ A function is a block of code designed to perform a specific task. Functions all
 
 First we must **define** a function. We define a function by first creating a variable using `const`. We then give our `const` a **name** and assign its value to a function. The name can be anything you want but should be descriptive.
 
-Open the Chrome console or jsbin and enter the following:
+Open the Chrome console or jsbin and enter the following: 
 
 ```javascript
 const multiply = function () {

@@ -6,7 +6,7 @@ description: Columns and Rows
 
 ### Designing with a Grid
 
-Every good web design begins with a sketch. As you may have noticed, everything in CSS has to be mathematically laid out. You need to have dimensions for your margins, padding, etc. This requires that these sketches are built with a "grid" in mind to help with alignments.
+Every good web design begins with a sketch. As you may have noticed, everything in CSS has to be mathematically laid out. You need to have dimensions for your margins, padding, etc. This requires that these sketches are built with a "grid" in mind to help with alignments. 
 
 ![](https://lh6.googleusercontent.com/4jiCQAaxNGHURFWaTtevTNWQo3Iq3QPVLaDSt_ygloHhRnDRPSHDO_DZh8z_STbmmrg7aSHsrw61AmALuiNHjPCDXoUefj8u0-T2qIzCt66Kk67AdtsZ4vcZbJTWx1eXkRwt2fVuSI8)
 

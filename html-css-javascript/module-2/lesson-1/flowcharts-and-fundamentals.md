@@ -4,7 +4,7 @@
 
 JavaScript is the only major language supported by browsers. That means all front-end developers use JavaScript. Learning JavaScript is like learning any language, it takes time to get the syntax down. 
 
-Before we worry about syntax, we'll focus on developing our programmatic thinking. That's where flowcharts come in handy.
+Before we worry about syntax, we'll focus on developing our programmatic thinking. That's where flowcharts come in handy. 
 
 Flowcharts help you to visualize the various components needed to create your project. They will help you write cleaner more organized and less error prone code.
 

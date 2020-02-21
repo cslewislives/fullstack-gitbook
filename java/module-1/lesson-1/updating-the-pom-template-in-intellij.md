@@ -12,7 +12,7 @@ Please review the attached video in you have not already updated your Pom templa
 
 Written instructions for this same activity are as follows:
 
-1. Open IntelliJ so that it displays the Welcome dialog.
+1. Open IntelliJ so that it displays the Welcome dialog. 
 2. Click the `Configure` menu drop down.
 3. Select the `Preferences` \(Mac\) or `Settings` \(Windows\) menu item, this will display the **Preferences for New Projects** dialog.
 4. Click on `Editor` in the left-hand pane.

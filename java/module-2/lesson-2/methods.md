@@ -6,7 +6,7 @@ description: Adding behaviors to classes.
 
 We have already seen, created, and used methods. Now we are going to start learning more about methods and how they behave in objects.
 
-Let's start off with a quick review of methods:
+Let's start off with a quick review of methods: 
 
 * Methods are named blocks of code that we can call \(or invoke\) to do work for us.
 * Methods are one good way to achieve code reuse; we write the method once but we call it over and over.

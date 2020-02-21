@@ -2,7 +2,7 @@
 
 {% file src="../../../.gitbook/assets/06-stu\_media-queries.zip" caption="Media Queries Activity" %}
 
-Open the file `media_solved.html` in chrome. Don't do anything other than run it. Widen and shrink the page and notice that whereas your previous version of the code stacked the two boxes on top of each other, this version creates a nice degree of padding for separation and then stacks the two boxes on top of each other below a `max-width` of 768px.
+Open the file `media_solved.html` in chrome. Don't do anything other than run it. Widen and shrink the page and notice that whereas your previous version of the code stacked the two boxes on top of each other, this version creates a nice degree of padding for separation and then stacks the two boxes on top of each other below a `max-width` of 768px. 
 
 {% tabs %}
 {% tab title="Instructions" %}

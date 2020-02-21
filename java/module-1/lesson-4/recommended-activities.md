@@ -8,7 +8,7 @@ description: Practice activities for Module 1 Lesson 4.
 
 ## Activities
 
-There are two filed associated with the Lesson 4 activities. 
+There are two filed associated with the Lesson 4 activities.  
 
 1. Lesson 4 Debugger - This activity examines your ability to work with the Intelli-J IDE debugger to solve problems in the code. 
 2. Lesson 4 Katas - These activities are more consistent with the usual katas. 

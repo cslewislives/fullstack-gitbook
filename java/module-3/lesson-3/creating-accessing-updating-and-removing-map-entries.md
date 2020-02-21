@@ -5,7 +5,7 @@ description: 'An example of creating, accessing, updating, and removing Map entr
 # Creating, Accessing, Updating, and Removing Map Entries
 
 * We're showing basic functionality here; the emphasis should be on how the Map API works.
-* Why can we use an `int` to store Joe's height when maps only deal with objects? \(we can do this because of unboxing here\).
+* Why can we use an `int` to store Joe's height when maps only deal with objects? \(we can do this because of unboxing here\). 
 *  `put` and `replace` have the same effect if the key exists in the map. If the key does not exist in the map, `put` will create a new entry whereas `replace` will do nothing.
 
 ```java

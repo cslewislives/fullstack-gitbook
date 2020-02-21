@@ -6,7 +6,7 @@ description: Simple File I/O Example
 
 **Example 1: Not handling the exception**
 
-* Create and run this simple example and look at the stack trace when the error is encountered.
+* Create and run this simple example and look at the stack trace when the error is encountered. 
 
 ```java
 package com.company.exceptions;

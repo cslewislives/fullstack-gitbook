@@ -4,7 +4,7 @@
 
 Now that we have discussed some of the characteristics of an object, let us create one. 
 
-## Person Object
+## Person Object 
 
 {% tabs %}
 {% tab title="Person Object Creation Steps" %}

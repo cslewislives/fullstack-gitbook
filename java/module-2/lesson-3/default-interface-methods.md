@@ -7,7 +7,7 @@ description: A sample use case for default method implementations in Java 8.
 ### Default Methods
 
 * Default methods in interfaces allow us to add methods to an interface even if there are already classes that implement the old version.
-* Before default methods, adding methods to an existing interface would break all classes that implemented the old version of the interface.
+* Before default methods, adding methods to an existing interface would break all classes that implemented the old version of the interface. 
 
 #### Why we might need a default method
 

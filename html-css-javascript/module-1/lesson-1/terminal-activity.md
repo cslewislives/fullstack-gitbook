@@ -4,7 +4,7 @@
 
 **Instructions:**
 
-From the Terminal/Console and using only the command line, create the following:
+From the Terminal/Console and using only the command line, create the following: 
 
 1. A new folder with the name of `first_lesson_stuff`
 2. A new HTML file with the name of `first-lesson.html`

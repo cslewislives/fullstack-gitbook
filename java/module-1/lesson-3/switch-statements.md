@@ -49,7 +49,7 @@ The various possibilities for the **value** are detailed in each of the **case**
 
 If the **expression** evaluates to a specified **value**, the code associated with the value will be executed. This code will execute until it reaches the **break** statement. 
 
-If the **expression** does not evaluate to any of the specified values, the **default** code block will execute. 
+If the **expression** does not evaluate to any of the specified values, the **default** code block will execute.  
 {% endhint %}
 
 {% embed url="https://youtu.be/MUwPb5df2gI" %}

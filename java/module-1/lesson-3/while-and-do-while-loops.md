@@ -20,7 +20,7 @@ There are two main categories of loops:  **While** and **Do/While** loops and **
 
 * While and Do/While loops repeat code until a certain condition is met.
   * Like the if and else/if constructs, this condition must evaluate to either true or false. The code will only execute if the condition evaluates to true. 
-* We do **NOT** know ahead of time how many times the loop should repeat.
+* We do **NOT** know ahead of time how many times the loop should repeat. 
 * Real-world examples:
 
   * Sitting at the stop light until it turns green.

@@ -8,7 +8,7 @@ description: Practice activities for Module 2 Lesson 1.
 
 ## Activities <a id="activities"></a>
 
-For this activity you will be utilizing the [draw.io](http://draw.io) website \(or a similar tool\) to create UML diagrams for each of the objects listed. 
+For this activity you will be utilizing the [draw.io](http://draw.io) website \(or a similar tool\) to create UML diagrams for each of the objects listed.  
 
 * Radio
 * TV

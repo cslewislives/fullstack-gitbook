@@ -9,7 +9,7 @@ List<String> names = new ArrayList<String>();
 List<String> names = new ArrayList<>();
 ```
 
-* The first example specifies the type the list will hold on both the declaration and initialization side. This works but is verbose.
+* The first example specifies the type the list will hold on both the declaration and initialization side. This works but is verbose. 
 * The second example uses the diamond operator \(&lt;&gt;\), which infers the type on the initialization side. This syntax is a bit cleaner.
 * We are declaring a type using the interface \(List\) and instantiating a class that implements the interface \(ArrayList\).
   * This is a pattern that we will continue to use—**program to interfaces, not concrete classes**. It promotes interoperability and gives us the ability to swap implementations without having to change a bunch of code.

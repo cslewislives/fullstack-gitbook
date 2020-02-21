@@ -6,7 +6,7 @@ Sometimes you're not just checking what the value inside of a user input is. You
 
 There might be an error in the input, but you can start by understanding if there's an input. How do you do that? truthiness, falsiness, and boolean conversion! But you should start by seeing IF there's an input at all
 
-Open the Chrome console and type:
+Open the Chrome console and type: 
 
 ```javascript
 !!0;

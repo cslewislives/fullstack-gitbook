@@ -7,7 +7,7 @@ description: Various Position Types
 Within CSS there are a few ways to position your content on the screen. They are:
 
 * **Static**
-  * Default positioning, i.e. no positioning given
+  * Default positioning, i.e. no positioning given 
 
 {% tabs %}
 {% tab title="CSS" %}

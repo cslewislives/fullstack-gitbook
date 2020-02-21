@@ -6,7 +6,7 @@ Using the construct code found in the **While and Do/While Loops** explanation, 
 
 {% tabs %}
 {% tab title="EnterInteger Instructions" %}
-Using a **Do/While** loop, prompt the user to input an integer between 1 and 10 inclusive. 
+Using a **Do/While** loop, prompt the user to input an integer between 1 and 10 inclusive.  
 
 If the user input is between those values, output a statement that reads \("Great, you chose " + userInt\).
 

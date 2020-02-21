@@ -6,7 +6,7 @@ But first let's quickly go through how to link JavaScript documents to our HTML 
 
 If your first guess is to use a link tag like we do when linking our CSS stylesheets to HTML documents, you’re pretty close!
 
-In HTML, all JavaScript is contained inside of a `<script>` tag.
+In HTML, all JavaScript is contained inside of a `<script>` tag. 
 
 ```markup
 <script></script>

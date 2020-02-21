@@ -6,7 +6,7 @@ description: >-
 
 # I/O
 
-There are several ways to get console input from the user. We are going to use something called the Scanner. 
+There are several ways to get console input from the user. We are going to use something called the Scanner.  
 
 {% embed url="https://youtu.be/M0brf3l57JA" %}
 

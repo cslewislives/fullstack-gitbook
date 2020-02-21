@@ -2,7 +2,7 @@
 
 ### What, Why, and When
 
-Conditionals control behavior in JavaScript and determines whether or not pieces of code will or will not run.
+Conditionals control behavior in JavaScript and determines whether or not pieces of code will or will not run. 
 
 Using conditionals in your websites and webapps will make it far more dynamic.
 

@@ -10,7 +10,7 @@ For loops and arrays work very well together.
 
 Arrays allow you to access the elements by referencing the number of the index position and for loops allow you to utilize numbers to determine the time you are cycling through the loop. 
 
-We will continue to use the Pets array to demonstrate.
+We will continue to use the Pets array to demonstrate. 
 
 ```java
         String[] Pets = {"dog", "cat", "rabbit", "hermit crab", "parrot"};

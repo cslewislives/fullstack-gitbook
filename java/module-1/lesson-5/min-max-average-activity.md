@@ -1,6 +1,6 @@
 # Min, Max, Average - Activity
 
-Min, Max, Average is a code-along activity with the Instructor. Watch and code, pausing the video where necessary. 
+Min, Max, Average is a code-along activity with the Instructor. Watch and code, pausing the video where necessary.  
 
 {% embed url="https://youtu.be/VrnOesBS-ko" %}
 

@@ -6,7 +6,7 @@ description: A quick look at the Java 8 Javadoc for the List interface.
 
 {% tabs %}
 {% tab title="Instructions" %}
-Navigate through the Java 8 Javadoc for the List interface. Use the Javadoc link on the second tab and the directions below:
+Navigate through the Java 8 Javadoc for the List interface. Use the Javadoc link on the second tab and the directions below: 
 
 * List is an interface.
 * List is a generic \(or parameterized\) interface that is marked by the angle brackets and the placeholder type "E".

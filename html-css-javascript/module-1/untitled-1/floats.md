@@ -8,7 +8,7 @@ description: Floats are pretty tricky.
 
 ![](../../../.gitbook/assets/image%20%2843%29.png)
 
-Flow is the idea that every single element — text, images, links, sections, etc. — all take up a set amount of space on the screen. 
+Flow is the idea that every single element — text, images, links, sections, etc. — all take up a set amount of space on the screen.  
 
 These elements, by default, won't stack on top of one another so instead they have to find ways to "flow" around one another. A big part of CSS is in managing how elements will fit into this flow.
 

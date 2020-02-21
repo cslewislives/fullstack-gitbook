@@ -6,7 +6,7 @@ Loops are a programming tool used to iterate through a list of data. In JavaScri
 
 Lists \(aka arrays\) are the data structure that developers deal with most frequently, so learning to master them is a vital part of being a successful developer. Loops are the tool we use _every single time_ we need to access every element in an array.
 
-Imagine you are building an online phone book. You'll need to store all those names and phone numbers in an array. Want to look up a friend? You'll need to loop through the array checking each entry until you find your friend. Want to print the whole list? You'll need to loop through the array rendering each one individually.
+Imagine you are building an online phone book. You'll need to store all those names and phone numbers in an array. Want to look up a friend? You'll need to loop through the array checking each entry until you find your friend. Want to print the whole list? You'll need to loop through the array rendering each one individually. 
 
 ### Flowcharting Lists
 

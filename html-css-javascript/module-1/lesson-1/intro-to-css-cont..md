@@ -6,7 +6,7 @@ description: Still Making it Pretty
 
 ### Specifying Selectors
 
-* Id’s can be used to give an HTML element a unique identifier that you can use to stylize that specific element
+* Id’s can be used to give an HTML element a unique identifier that you can use to stylize that specific element 
 
 {% tabs %}
 {% tab title="HTML" %}

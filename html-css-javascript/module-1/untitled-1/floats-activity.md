@@ -8,7 +8,7 @@
 
 {% file src="../../../.gitbook/assets/stu\_float.zip" caption="Floats Activity" %}
 
-Using `floats.html` and `floats.css`, in the folder above as a starting point, work together with your partner to create the missing CSS necessary to form the following layout:
+Using `floats.html` and `floats.css`, in the folder above as a starting point, work together with your partner to create the missing CSS necessary to form the following layout: 
 
 ![](../../../.gitbook/assets/example.png)
 

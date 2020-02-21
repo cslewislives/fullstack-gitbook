@@ -6,7 +6,7 @@ We can visit individual elements of an array using for loops, enhanced for loops
 
 The Loop examples are pretty straightforward and should be familiar to you.
 
-First we will create our Array List and add elements to it.
+First we will create our Array List and add elements to it. 
 
 ```java
 package com.company.lists;

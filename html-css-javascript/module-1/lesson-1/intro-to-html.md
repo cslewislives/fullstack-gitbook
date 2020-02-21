@@ -11,7 +11,7 @@ description: Getting Stuff on the Page
 * HTML is made up of opening and closing tags.
 * HTML is the skeleton of the web page, we use elements to dictate where everything needs to be.
 
-### Anatomy of HTML Elements
+### Anatomy of HTML Elements 
 
 ```markup
 <p> Some text here. </p>

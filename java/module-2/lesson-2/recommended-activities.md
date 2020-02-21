@@ -8,7 +8,7 @@ description: Practice activities for Module 2 Lesson 2.
 
 ## Activities
 
-There are two files associated with the Lesson 2 activities. 
+There are two files associated with the Lesson 2 activities.  
 
 1. The first kata involves building classes based off of the UML diagrams provided along with the starter code. 
 2. The second kata has you create methods associated with each of the objects created in the first activity. 

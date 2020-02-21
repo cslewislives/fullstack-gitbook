@@ -2,7 +2,7 @@
 
 ![Implementing Multiple Interfaces](../../../.gitbook/assets/image%20%2830%29.png)
 
-Follow the instructions below. Do not look at the Solution Code tab until you have completed your attempt.
+Follow the instructions below. Do not look at the Solution Code tab until you have completed your attempt. 
 
 {% tabs %}
 {% tab title="Instructions" %}

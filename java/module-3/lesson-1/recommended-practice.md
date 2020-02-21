@@ -10,7 +10,7 @@ description: Practice activities for Module 3 Lesson 1.
 
 This activity will require you to **write the tests** associated with creating a Physics library that implements the following methods:
 
-* calculateForce
+* calculateForce 
 * calculateVelocity
 * calculateMass
 * calculateAcceleration

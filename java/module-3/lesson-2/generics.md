@@ -9,7 +9,7 @@ description: A brief explanation of generics.
 * All of the data structures in in the collections framework and in the maps family \(next lesson\) hold references to objects. For example, you could have a Set of Student objects or a List of Address objects.
 * We need a way to specify the type of objects a particular instance of a collection can hold.
 * That mechanism is called a "generic class or interface," commonly referred to as a "generic."
-* Generics have a slightly different declaration syntax: not only do we have to specify the type of the collection \(i.e., List, Set, etc.\) but we also have to specify the type of object that the collection can hold.
+* Generics have a slightly different declaration syntax: not only do we have to specify the type of the collection \(i.e., List, Set, etc.\) but we also have to specify the type of object that the collection can hold. 
 
 #### Generics Examples
 

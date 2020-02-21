@@ -6,7 +6,7 @@ description: Class methods vs object methods
 
 The concept of the `static` keyword can be confusing for new programmers because it doesn't have a counterpart in the real world like the other OOP concepts. Don't worry if some of this doesn't totally make sense right now. It will become clear over time as you use these tools more. 
 
-Properties and methods marked with the `static` keyword are associated with the class and not with any particular object created from the class.
+Properties and methods marked with the `static` keyword are associated with the class and not with any particular object created from the class. 
 
 Every time we instantiate an object it gets its own unique copy of each of the non-static methods and properties. 
 

@@ -10,7 +10,7 @@ Forms are interactive components of web applications. They utilize various compo
 * Text input fields
 * Check boxes
 
-How do you send an email, post on Facebook, or add a task to an online to do list? A form.
+How do you send an email, post on Facebook, or add a task to an online to do list? A form. 
 
 ## Event Listeners
 

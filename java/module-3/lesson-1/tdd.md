@@ -2,7 +2,7 @@
 
 Earlier we discussed that writing tests first was a powerful way to plan and think through your code before you write, which leads to higher quality code. This style of coding is known as **Test Driven Development** **\(TDD\).** 
 
-TDD is a highly encouraged way to code, and for this course moving forward it is **required**. 
+TDD is a highly encouraged way to code, and for this course moving forward it is **required**.  
 
 {% hint style="warning" %}
 From this point on, you **MUST** write your tests first

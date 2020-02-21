@@ -4,7 +4,7 @@ description: Composition represents what we call a has-a relationship.
 
 # Composition
 
-Composition is another tool to help us organize and write code that solves more complex problems.
+Composition is another tool to help us organize and write code that solves more complex problems. 
 
 Composition allows us to express a has-a relationship. We will explore what that relationship is and how composition allows us to express it in Java code.
 

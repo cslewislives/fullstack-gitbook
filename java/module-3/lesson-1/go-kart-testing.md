@@ -8,7 +8,7 @@ description: Testing in the Real World
 
 Suppose you manufacture small go-karts for children. You begin by manufacturing an axle. Axles need to support any weight up to 200lbs. You then test if the axle can support that weight. This is a **UNIT TEST.**
 
-Next you build the wheels. The wheels need to also hold weight up to 200lbs and maintain integrity for 200 miles of travel on rough gravel. You test the wheels ability to meet these requirements. This is also a **UNIT TEST.**
+Next you build the wheels. The wheels need to also hold weight up to 200lbs and maintain integrity for 200 miles of travel on rough gravel. You test the wheels ability to meet these requirements. This is also a **UNIT TEST.** 
 
 ### **Go Kart Integration Testing**
 

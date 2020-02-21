@@ -8,7 +8,7 @@ One of the uses you will encounter for the Random utility is generating random n
 {% tab title="RollingDice Instructions" %}
 Write a class called `RollingDice` with a main method that simulates that roll of two dice. Print the output of those rolls to the screen. 
 
-As always, attempt the code before reviewing the solution file.  
+As always, attempt the code before reviewing the solution file.   
 {% endtab %}
 
 {% tab title="RollingDice Solution Code" %}

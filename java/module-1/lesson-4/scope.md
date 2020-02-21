@@ -8,7 +8,7 @@ The scope of a variable basically means where it can be used. Java variables are
 
 **Class-level variables.**
 
-These variables are declared inside of a class \(yet outside of any method\) and can be accessed anywhere inside the class.
+These variables are declared inside of a class \(yet outside of any method\) and can be accessed anywhere inside the class. 
 
 \*Depending on their access modifier, these variables may be accessible in the entire class and some other classes. We'll save this discussion for another day - just file this tidbit away for now. 
 

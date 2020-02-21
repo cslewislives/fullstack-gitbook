@@ -2,7 +2,7 @@
 
 ![Initialize Animals Arrays](../../../.gitbook/assets/image%20%28103%29.png)
 
-In the following activity, initialize two arrays of animals. One will be initialized using the per-element method, the other will be done using the initialized. You will need to print both arrays to the screen. 
+In the following activity, initialize two arrays of animals. One will be initialized using the per-element method, the other will be done using the initialized. You will need to print both arrays to the screen.  
 
 {% tabs %}
 {% tab title="Animals Arrays Instructions" %}

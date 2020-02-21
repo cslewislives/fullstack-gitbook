@@ -16,7 +16,7 @@ In contrast to the While and Do/While loops, For loops do **NOT** depend on a co
   * Run 10 laps.
   * Plant 8 flowers.
 
-The code construct and the practical application for a for-loop is as follows. 
+The code construct and the practical application for a for-loop is as follows.  
 
 ```java
    //constuct

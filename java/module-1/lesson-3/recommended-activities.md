@@ -17,7 +17,7 @@ description: Practice activities for Module 1 Lesson 3.
 * YourAgeCan
 * UltimateQuestion
 * FavoriteProgrammingLanguage
-* AgeAgain
+* AgeAgain 
 
 There is starter code for all 10 of the katas included in the file. 
 

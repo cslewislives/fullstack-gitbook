@@ -2,7 +2,7 @@
 
 ### What, When, and Why
 
-Objects store information in key/value pairs - kind of like an array, but instead of indices like 0,1,2,3... We have keys like `name`, `age`, `height`, etc.
+Objects store information in key/value pairs - kind of like an array, but instead of indices like 0,1,2,3... We have keys like `name`, `age`, `height`, etc. 
 
 Objects are the backbone of JavaScript. They are used to store related information.
 
